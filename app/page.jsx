@@ -1,6 +1,6 @@
 'use client'
-import Skills from './Skills'
-import Intro from './Intro'
+import Skills from './components/Skills'
+import Intro from './components/Intro'
 
 export default function Home() {
 
